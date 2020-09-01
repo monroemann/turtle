@@ -12,3 +12,7 @@ body {
 	rotateY(var(--rotateX)) rotate(var(--rotate));
 	transition: transform 0.1s;
 }
+
+.safe-zone {
+	object-position: 50% 50%;
+}
